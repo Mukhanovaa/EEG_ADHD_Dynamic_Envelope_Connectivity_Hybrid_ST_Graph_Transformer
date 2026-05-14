@@ -18,13 +18,9 @@ The project is designed as a complete scientific workflow rather than a minimal 
 
 The complete executable notebook is:
 
-**`EEG_ADHD_Dynamic_Envelope_Connectivity_Hybrid_ST_Graph_Transformer.ipynb`**
-
-A size-optimized copy with embedded outputs for GitHub viewing is also provided:
-
 **`EEG_ADHD_Dynamic_Envelope_Connectivity_Hybrid_ST_Graph_Transformer_for_GitHub.ipynb`**
 
-Both notebooks describe the same scientific analysis. The GitHub copy keeps the tables and figures under the corresponding cells while compressing embedded images to keep the file suitable for repository hosting.
+Notebook describe the same scientific analysis. The GitHub copy keeps the tables and figures under the corresponding cells while compressing embedded images to keep the file suitable for repository hosting.
 
 ## Dataset
 
