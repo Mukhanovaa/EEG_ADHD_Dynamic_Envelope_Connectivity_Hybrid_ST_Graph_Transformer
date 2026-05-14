@@ -20,7 +20,7 @@ The complete executable notebook is:
 
 **`EEG_ADHD_Dynamic_Envelope_Connectivity_Hybrid_ST_Graph_Transformer_for_GitHub.ipynb`**
 
-Notebook describe the same scientific analysis. The GitHub copy keeps the tables and figures under the corresponding cells while compressing embedded images to keep the file suitable for repository hosting.
+This notebook contains the full analysis workflow with embedded tables and figures under the corresponding cells.
 
 ## Dataset
 
@@ -244,8 +244,7 @@ The analysis uses fixed random seeds, subject-level splits, training-only standa
 
 | Item | Description |
 |---|---|
-| Main analysis notebook | Full executable scientific workflow with all outputs. |
-| GitHub notebook copy | Size-optimized notebook with embedded tables and figures. |
+| Analysis notebook | Full executable scientific workflow with embedded tables and figures. |
 | CSV EEG dataset | Tabular EEG data used for computation. |
 | Generated figures | Publication-quality PNG outputs. |
 | Generated tables | CSV and XLSX summaries of metrics, validation checks, and model settings. |
